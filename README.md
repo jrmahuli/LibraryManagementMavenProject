@@ -1,2 +1,2 @@
 # LibraryManagementMavenProject
-//Addind comment to check Poll SCM
+//Adding comment to check Poll SCM
